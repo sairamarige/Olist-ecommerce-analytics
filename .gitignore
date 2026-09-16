@@ -40,6 +40,8 @@ htmlcov/
 
 # Jupyter
 .ipynb_checkpoints/
-Get-Location
+
 # General logs
 *.log
+
+.Get-Location
